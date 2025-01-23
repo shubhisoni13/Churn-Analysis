@@ -1,4 +1,4 @@
-#Churn Analysis and Predictions Project
+# Churn Analysis and Predictions Project
 
 ![Screenshot 2025-01-23 133033](https://github.com/user-attachments/assets/e7cdeefc-854b-4bdd-9876-3d2035189dbb)
 
