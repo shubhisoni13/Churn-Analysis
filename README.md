@@ -268,4 +268,4 @@ original_data = original_data[original_data['Customer_Status_Predicted'] == 1]
 original_data.to_csv(r"D:\power bi\churn analysis\Predictions.csv", index=False)
 ```
 
-![Screenshot 2025-01-23 133033](https://github.com/user-attachments/assets/ce51fd39-31cb-4d49-b416-ec5fe6be8fe7)
+![Screenshot 2025-01-23 162119](https://github.com/user-attachments/assets/d4029f0c-ef9b-4270-8fac-4d888678745a)
