@@ -9,6 +9,31 @@ https://app.powerbi.com/links/oeR2SmZ7Sz?ctid=ffa5b9ed-b71c-4988-a7bb-e19b0f3c00
 ![Screenshot 2025-01-23 133046](https://github.com/user-attachments/assets/f8bc8d4e-3f6b-4f64-b3d4-621ab7044ba2)
 
 
+## 🚀 Technologies Used: SQL | Excel | Machine Learning (Python)
+
+### 🔍 Overview
+Customer churn occurs when customers stop using a service over time. This analysis aims to identify factors influencing churn and predict at-risk customers using SQL, Excel, and Machine Learning (ML).
+
+### 📂 Dataset
+Contains customer demographics, service usage, billing details, and churn labels.
+Key features: CustomerID, Subscription Type, Tenure, Monthly Charges, Support Calls, Churn (Yes/No).
+📊 Key Findings
+✔ High Churn Rate in Monthly Subscriptions – 60% of churning customers were on monthly plans.
+✔ Customer Support Issues Drive Churn – Users with 3+ support complaints had 75% higher churn.
+✔ Billing & Payment Delays – Late payments were a major churn factor, especially in the first 6 months.
+✔ Tenure Matters – Customers who stayed for 2+ years were 40% less likely to churn.
+✔ Machine Learning Model (Logistic Regression) – Achieved 85% accuracy in predicting churn.
+
+### 🛠 Methodology
+1️⃣ Data Cleaning & Preprocessing – Handled missing values, normalized numerical features.
+2️⃣ Exploratory Data Analysis (EDA) – Used SQL for insights on churn patterns.
+3️⃣ Feature Engineering – Created new features like "Engagement Score" & "Billing Consistency".
+4️⃣ Machine Learning Model – Trained Logistic Regression & Random Forest to predict churn.
+
+### 📌 Conclusion & Recommendations
+✅ Reduce Monthly Plan Churn – Offer discounts for long-term plans.
+✅ Improve Customer Support – Faster response times & issue resolution.
+✅ Target At-Risk Users – Personalized retention offers for low-engagement users.
 
 ## Sql Queries
 ```sql
