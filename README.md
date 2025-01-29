@@ -1,5 +1,9 @@
 # Churn Analysis and Predictions Project
 
+Dashboard Link
+https://app.powerbi.com/links/oeR2SmZ7Sz?ctid=ffa5b9ed-b71c-4988-a7bb-e19b0f3c0030&pbi_source=linkShare&bookmarkGuid=fb002b38-187b-4383-854a-1cc59c128b00
+
+
 ![Screenshot 2025-01-23 133033](https://github.com/user-attachments/assets/e7cdeefc-854b-4bdd-9876-3d2035189dbb)
 
 ![Screenshot 2025-01-23 133046](https://github.com/user-attachments/assets/f8bc8d4e-3f6b-4f64-b3d4-621ab7044ba2)
